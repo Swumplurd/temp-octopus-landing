@@ -380,6 +380,7 @@ footer{
     font-size: 14px;
 }
 .card-pack{
+    height: 100%;
     border-radius: 1.2em;
     border: none;
     color: #fff;
@@ -3715,4 +3716,6 @@ img.Devices{
         font-size: 0.4em;
     }
   }
-  
+   .work {
+    height: 100%;
+   }
